@@ -3,7 +3,7 @@
 # Artifical Intelligence and Machine Learning Lab Instructions Sheets
 1. [lab 01](https://github.com/MadarapuAnjali/2303A51025/blob/main/Lab01_AIML.ipynb):Introduction to Python Libraries-Numpy
 2. [lab 02](https://github.com/MadarapuAnjali/2303A51025/blob/main/Lab02_AIML.ipynb): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
-3. [lab 03](): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
+3. [lab 03](https://github.com/MadarapuAnjali/2303A51025/blob/main/Lab03_AIML.ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 4. [lab 04](): Implement Linear Regression using Boston Housing Data
 5. [lab 05](): Implement Logistic Regression using Titanic Ship Data
 6. [lab 06](): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
@@ -16,7 +16,7 @@
 # Artifical Intelligence and Machine Learning Lab Jupyter Notebooks 
 1. [lab 01](https://github.com/MadarapuAnjali/2303A51025/blob/main/Lab01_AIML.ipynb): Introduction to Python Libraries-Numpy
 2. [lab 02](https://github.com/MadarapuAnjali/2303A51025/blob/main/Lab02_AIML.ipynb): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
-3. [lab 03](): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
+3. [lab 03](https://github.com/MadarapuAnjali/2303A51025/blob/main/Lab03_AIML.ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 4. [lab 04](): Implement Linear Regression using Boston Housing Data
 5. [lab 05](): Implement Logistic Regression using Titanic Ship Data
 6. [lab 06](): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
